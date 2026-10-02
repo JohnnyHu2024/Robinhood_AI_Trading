@@ -1,4 +1,4 @@
-# FriesTrader
+# NewTrader
 
 ![License](https://img.shields.io/github/license/YizhiSong/FriesTrader)
 ![GitHub stars](https://img.shields.io/github/stars/YizhiSong/FriesTrader)
